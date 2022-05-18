@@ -19,3 +19,10 @@ function vitesse() {
 ```
 
 Check out the [GitHub repo](https://github.com/antfu/vitesse) for more details.
+
+<route lang="yaml">
+meta:
+  title: 关于
+  icon: carbon-book
+  order: 999
+</route>
